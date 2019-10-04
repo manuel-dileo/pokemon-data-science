@@ -14,6 +14,7 @@ Below you will find a list of the main questions asked (constantly updating).
     
 -   For every basic stat. , Which pokémon has the highest value? Which pokémon has the lowest value?
 -   How many species of pokémon exist for each type? Which type is the most common?
+-   Which ability is the most common?
 
 
 
