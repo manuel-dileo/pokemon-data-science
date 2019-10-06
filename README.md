@@ -1,6 +1,6 @@
 ﻿
 # Pokémon Data Science
-Through the dataset ‘pokemon.csv’, we will try to answer various types of questions and curiosity about pokémon world.
+Through the dataset ‘pokemon.csv’, we will try to answer various types of questions and curiosities about pokémon world.
 ## Dataset
 The Complete Pokemon Dataset has been downloaded from [Kaggle](https://www.kaggle.com/rounakbanik/pokemon/home). 
 To get all the information on it I suggest you visit the page linked above.
