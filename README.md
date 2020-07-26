@@ -1,7 +1,7 @@
 ﻿
 # Pokémon Data Science
 
-Exploratory analysis and application of machine learning algorithms on a pokemon dataset.
+Exploratory analysis and application of machine learning algorithms on a pokémon dataset.
 
 ## Dataset
 The Complete Pokemon Dataset has been downloaded from [Kaggle](https://www.kaggle.com/rounakbanik/pokemon/home). 
@@ -13,7 +13,7 @@ To get all the information on it I suggest you visit the page linked above.
 
 ## Exploratory analysis
 
-Below you will find the list of the main research questions(constantly updating).
+Below you will find the list of the main research questions (constantly updating).
 - Which no-legendary pokémon is the most diffucult to catch ?
 - For every basic stat. , Which pokémon has the highest value? Which pokémon has the lowest value ?
 - How many species of pokémon exist for each type ? Which type is the most common ?
