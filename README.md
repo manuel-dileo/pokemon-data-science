@@ -18,6 +18,7 @@ Below you will find the list of the main research questions (constantly updating
 - For every basic stat. , Which pokémon has the highest value? Which pokémon has the lowest value ?
 - How many species of pokémon exist for each type ? Which type is the most common ?
 - Which ability is the most common ?
+- Which features are related to each other?
 
 Please see exploration.ipynb notebook.
 
