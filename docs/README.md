@@ -1,4 +1,5 @@
-﻿
+﻿[Back to Home](https://manuel-dileo.github.io/)  
+
 # Pokémon Data Science
 
 Exploratory analysis and application of machine learning algorithms on a pokémon dataset.
@@ -25,7 +26,3 @@ Please see exploration.ipynb notebook.
 ## Machine Learning
 
 - We build a classifier to identify legendary pokémon (legendary_classifier.ipynb).
-
-
-
-
