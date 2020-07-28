@@ -1,4 +1,4 @@
-﻿[Back to Home](https://manuel-dileo.github.io/)  
+﻿[Home](https://manuel-dileo.github.io/)  
 
 # Pokémon Data Science
 
